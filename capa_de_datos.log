@@ -1,0 +1,251 @@
+02:08:31 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+02:08:32 PM | DEBUG | [Conexion.py:31] | Creación del pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x00000255E2C76290>
+02:08:32 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000255E31390D0>
+02:08:32 PM | DEBUG | [UsuarioDAO.py:22] | Número de registros obtenidos: 3
+02:08:32 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000255E3139E90>
+02:08:32 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+02:08:32 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+02:08:32 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+02:08:32 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000255E31390D0>
+02:08:32 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+02:08:40 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+02:08:40 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000255E3139A50>
+02:08:40 PM | DEBUG | [UsuarioDAO.py:59] | Persona eliminada: 
+        Id_usuario: 2, 
+        Username: None,
+        Password: None
+02:08:40 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000255E141F3D0>
+02:08:40 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+02:08:40 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+02:08:40 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+02:08:40 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000255E3139A50>
+02:08:40 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+02:08:44 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+02:08:44 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000255E141F3D0>
+02:08:44 PM | DEBUG | [UsuarioDAO.py:22] | Número de registros obtenidos: 2
+02:08:44 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000255E3139310>
+02:08:44 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+02:08:44 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+02:08:44 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+02:08:44 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000255E141F3D0>
+02:08:44 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+06:08:48 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+06:08:49 PM | DEBUG | [Conexion.py:31] | Creación del pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000015EB9596290>
+06:08:49 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB96586D0>
+06:08:49 PM | DEBUG | [UsuarioDAO.py:22] | Número de registros obtenidos: 2
+06:08:49 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB9659410>
+06:08:49 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+06:08:49 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+06:08:49 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+06:08:49 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB96586D0>
+06:08:49 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+06:08:09 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+06:08:09 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB96586D0>
+06:08:09 PM | DEBUG | [UsuarioDAO.py:39] | Persona insertada: 
+        Id_usuario: None, 
+        Username: tomasTellechea,
+        Password: 324354
+06:08:09 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB951BF10>
+06:08:09 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+06:08:09 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+06:08:09 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+06:08:09 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB96586D0>
+06:08:09 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+06:08:42 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+06:08:42 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB9658D10>
+06:08:42 PM | DEBUG | [UsuarioDAO.py:22] | Número de registros obtenidos: 3
+06:08:42 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB9659590>
+06:08:42 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+06:08:42 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+06:08:42 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+06:08:42 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB9658D10>
+06:08:42 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+06:08:52 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+06:08:52 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB9659950>
+06:08:52 PM | DEBUG | [UsuarioDAO.py:39] | Persona insertada: 
+        Id_usuario: None, 
+        Username: jupiter,
+        Password: jup123
+06:08:52 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB963BC10>
+06:08:52 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+06:08:52 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+06:08:52 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+06:08:52 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB9659950>
+06:08:52 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+06:08:10 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+06:08:10 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB963BC10>
+06:08:10 PM | DEBUG | [UsuarioDAO.py:49] | Persona actualizada: 
+        Id_usuario: 1, 
+        Username: huergo,
+        Password: huhuhuh12373847136847
+06:08:10 PM | ERROR | [Conexion.py:45] | Ocurrió un error al obtener la conexión: Failed getting connection; pool exhausted
+06:08:10 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+06:08:10 PM | ERROR | [Cursor_del_pool.py:21] | Ocurrió una excepción: 'NoneType' object has no attribute 'commit'
+06:08:10 PM | ERROR | [Cursor_del_pool.py:22] | Detalle de la excepción:
+06:08:10 PM | ERROR | [Cursor_del_pool.py:23] | Traceback (most recent call last):
+  File "c:\Users\tomas\Desktop\PROGRAMACION\python\Curso_Udemy_Universidad_Python\22_Laboratorio_final_Capa_de_datos_usuarios\UsuarioDAO.py", line 50, in actualizar
+    Conexion.obtener_conexion().commit()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'commit'
+
+06:08:10 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+06:08:10 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000015EB963BC10>
+06:08:10 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+06:08:33 PM | DEBUG | [Conexion.py:31] | Creación del pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001CCA75C7FD0>
+06:08:33 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001CCA92D58D0>
+06:08:33 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001CCA92D58D0>
+06:08:33 PM | DEBUG | [Conexion.py:62] | Pool cerrado
+06:08:46 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+06:08:46 PM | DEBUG | [Conexion.py:31] | Creación del pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000002A2EA684750>
+06:08:46 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB4EF90>
+06:08:46 PM | DEBUG | [UsuarioDAO.py:22] | Número de registros obtenidos: 4
+06:08:46 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB79490>
+06:08:46 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+06:08:46 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+06:08:46 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+06:08:46 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB4EF90>
+06:08:46 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+06:08:53 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+06:08:53 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB79550>
+06:08:53 PM | DEBUG | [UsuarioDAO.py:39] | Persona insertada: 
+        Id_usuario: None, 
+        Username: adkjahsd,
+        Password: asdkajshd
+06:08:53 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB5BD10>
+06:08:53 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+06:08:53 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+06:08:53 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+06:08:53 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB79550>
+06:08:53 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+06:08:57 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+06:08:57 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB78590>
+06:08:57 PM | DEBUG | [UsuarioDAO.py:59] | Persona eliminada: 
+        Id_usuario: 3, 
+        Username: None,
+        Password: None
+06:08:57 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB79290>
+06:08:57 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+06:08:57 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+06:08:57 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+06:08:57 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB78590>
+06:08:57 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+06:08:20 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+06:08:20 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB79450>
+06:08:21 PM | DEBUG | [UsuarioDAO.py:49] | Persona actualizada: 
+        Id_usuario: 6, 
+        Username: jujuaosja,
+        Password: 452653
+06:08:21 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2EA697CD0>
+06:08:21 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+06:08:21 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+06:08:21 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+06:08:21 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB79450>
+06:08:21 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+06:08:23 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+06:08:23 PM | DEBUG | [Conexion.py:42] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB78F90>
+06:08:23 PM | DEBUG | [UsuarioDAO.py:22] | Número de registros obtenidos: 4
+06:08:23 PM | ERROR | [Conexion.py:45] | Ocurrió un error al obtener la conexión: Failed getting connection; pool exhausted
+06:08:23 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+06:08:23 PM | ERROR | [Cursor_del_pool.py:21] | Ocurrió una excepción: 'NoneType' object has no attribute 'commit'
+06:08:23 PM | ERROR | [Cursor_del_pool.py:22] | Detalle de la excepción:
+06:08:23 PM | ERROR | [Cursor_del_pool.py:23] | Traceback (most recent call last):
+  File "c:\Users\tomas\Desktop\PROGRAMACION\python\Curso_Udemy_Universidad_Python\22_Laboratorio_final_Capa_de_datos_usuarios\UsuarioDAO.py", line 30, in seleccionar
+    Conexion.obtener_conexion().commit()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'commit'
+
+06:08:23 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+06:08:23 PM | DEBUG | [Conexion.py:53] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000002A2ECB78F90>
+06:08:23 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+06:08:57 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+06:08:57 PM | DEBUG | [Conexion.py:31] | Creación del pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001C0B8602BD0>
+06:08:58 PM | ERROR | [Conexion.py:45] | Ocurrió un error al obtener la conexión: 'NoneType' object has no attribute 'get_connection'
+06:08:59 PM | DEBUG | [Conexion.py:31] | Creación del pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000021F31AFB010>
+06:08:59 PM | ERROR | [Conexion.py:45] | Ocurrió un error al obtener la conexión: 'NoneType' object has no attribute 'get_connection'
+06:08:07 PM | DEBUG | [Conexion.py:30] | Creación del pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000018361F23C50>
+06:08:07 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000018361A647D0>
+06:08:07 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000018361A647D0>
+06:08:07 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000018361F4BB90>
+06:08:53 PM | DEBUG | [Conexion.py:30] | Creación del pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000019204DAB010>
+06:08:53 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000019204D03B10>
+06:08:53 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000019204D03B10>
+06:08:53 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000019206B97690>
+07:08:02 PM | DEBUG | [Conexion.py:30] | Creación del pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000025D22E0B010>
+07:08:02 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000025D22D63B10>
+07:08:02 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000025D22D63B10>
+07:08:02 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000025D24BD7690>
+07:08:02 PM | ERROR | [Conexion.py:62] | Ocurrió un error al cerrar el pool: 'MySQLConnectionPool' object has no attribute 'close'
+07:08:19 PM | DEBUG | [Conexion.py:30] | Creación del pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000013F585A3E10>
+07:08:19 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000013F567A5350>
+07:08:19 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000013F567A5350>
+07:08:19 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000013F564AE250>
+07:08:19 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000013F564AE250>
+07:08:54 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+07:08:54 PM | DEBUG | [Conexion.py:30] | Creación del pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000017B38404790>
+07:08:54 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8AC9D0>
+07:08:54 PM | DEBUG | [UsuarioDAO.py:22] | Número de registros obtenidos: 4
+07:08:54 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+07:08:54 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+07:08:54 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+07:08:54 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8AC9D0>
+07:08:54 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+07:08:02 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+07:08:02 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8ADCD0>
+07:08:02 PM | DEBUG | [UsuarioDAO.py:38] | Persona insertada: 
+        Id_usuario: None, 
+        Username: kdjakj,
+        Password: 34355
+07:08:02 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+07:08:02 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+07:08:02 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+07:08:02 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8ADCD0>
+07:08:02 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+07:08:11 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+07:08:11 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8ADE10>
+07:08:11 PM | DEBUG | [UsuarioDAO.py:22] | Número de registros obtenidos: 5
+07:08:11 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+07:08:11 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+07:08:11 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+07:08:11 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8ADE10>
+07:08:11 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+07:08:16 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+07:08:16 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8AE3D0>
+07:08:16 PM | DEBUG | [UsuarioDAO.py:56] | Persona eliminada: 
+        Id_usuario: 9, 
+        Username: None,
+        Password: None
+07:08:16 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+07:08:16 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+07:08:16 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+07:08:16 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8AE3D0>
+07:08:16 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+07:08:25 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+07:08:25 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8AE310>
+07:08:25 PM | DEBUG | [UsuarioDAO.py:56] | Persona eliminada: 
+        Id_usuario: 8, 
+        Username: None,
+        Password: None
+07:08:25 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+07:08:25 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+07:08:25 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+07:08:25 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8AE310>
+07:08:25 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+07:08:27 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+07:08:27 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8AE350>
+07:08:27 PM | DEBUG | [UsuarioDAO.py:22] | Número de registros obtenidos: 3
+07:08:27 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+07:08:27 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+07:08:27 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+07:08:27 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8AE350>
+07:08:27 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
+07:08:31 PM | DEBUG | [Cursor_del_pool.py:12] | Inicio del método with __enter__
+07:08:31 PM | DEBUG | [Conexion.py:40] | Conexión obtenida del pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8AE590>
+07:08:31 PM | DEBUG | [UsuarioDAO.py:38] | Persona insertada: 
+        Id_usuario: None, 
+        Username: kfnashda,
+        Password: 4523423
+07:08:31 PM | DEBUG | [Cursor_del_pool.py:18] | Inicio del método __exit__
+07:08:31 PM | DEBUG | [Cursor_del_pool.py:26] | Commit de la transacción
+07:08:31 PM | DEBUG | [Cursor_del_pool.py:32] | Cursor cerrado
+07:08:31 PM | DEBUG | [Conexion.py:51] | Conexión liberada al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000017B3A8AE590>
+07:08:31 PM | DEBUG | [Cursor_del_pool.py:38] | Conexión liberada al pool
